@@ -1,0 +1,459 @@
+body{
+      height: 100vh;
+      width: 100vw;
+}
+
+
+
+
+.bg-redbus{
+      height: 60px;
+}
+.headp{
+      height: 30px;
+      margin-left: 400px;
+    
+}
+.nav_box{
+     display: grid;
+     grid-template-columns: 400px 1000px;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     /* padding: 1em; */
+     z-index: 1000;
+     background-color: white;
+     height: 100px;
+box-shadow:0 0 10px rgba(0,0,0, 0.5) ;
+
+}
+.ul_box{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 000px;
+     
+}
+.sec_ul{
+      display: flex;
+      justify-content:end;
+      gap: 70px;
+}
+.box{
+      height: 50px;
+}
+.icon_nav{
+      height: 32px;
+}
+.whiite_space{
+height: 100px;
+}
+.nav_img{
+      height: 60px;
+      border-radius: 12px;
+}
+.nav-box{
+      /* display: grid;
+      grid-template-columns: 500px 500px; */
+      
+}
+/* .nav-fir{
+      display: flex;
+      justify-content:flex-start;
+      gap: 40px;
+      position: fixed;
+      background-color: white;
+     width: 100vw;
+     height: 100px; */
+    
+     
+
+
+li{
+      list-style: none;
+}
+.online{
+      background-color: antiquewhite;
+     border-radius: 20px;
+     padding: 40px;
+     margin-right: 180px;
+}
+.same{
+      margin-left: 0px;
+     
+}
+.referal{
+      width: 90%;
+      border-radius: 30px;
+
+}
+.question{
+      display: grid;
+      grid-template-columns: 300px 300px 300px 300px 300px;
+}
+footer{
+      display: grid;
+      grid-template-columns: 300px 300px 300px 300px 300px;
+}
+.foot_last{
+      display: flex;
+      justify-content: end;
+      gap: 40px;
+      margin-right: 80px;
+}
+.necha{
+      margin-top: 10px;
+}
+.unlock{
+      display: grid;
+      grid-template-columns: 200px 1000px 600px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.8);
+      border-radius: 20px;
+      margin: 40px;
+}
+.red_list{
+      color: red;
+}
+#off{
+      font-size: 40px;
+}
+.unlock_img{
+      margin-left: 40px;
+      margin-top: 40px;
+}
+.book_butt{
+      margin-top: 40px;
+      height: 50px;
+      width: 120px;
+      background-color: rgb(173, 46, 46);
+      color: aliceblue;
+      border: none;
+      font-size: 20px;
+      padding: 10px;
+      border-radius: 10px;
+}
+.about_booking{
+      margin: 40px;
+}
+
+.country{
+      display: flex;
+      justify-content: space-around;
+
+}
+.country_name{
+      display: flex;
+      justify-content: space-around;
+}
+.glo{
+      margin: 40px;
+}
+.head{
+      /* background-color: rgb(177, 57, 77); */
+      color: white;
+      display: grid;
+      grid-template-columns: 300px 300px 340px 400px;
+padding: 50px;
+}
+.indias{
+margin-left: 300px;
+color: white;
+font-size: 40px;
+}
+.icon{
+      height: 40px;
+     margin-top: 10px;
+     background-color:  rgb(177, 57, 77);
+}
+.ind{
+      height: 100px;
+      width: 300px;
+      border-radius: 20px 0px 0px 20px;
+     border: none;
+     outline: none;
+      padding: 20px;
+      font-size: 30px;
+
+}
+.play_type{
+      /* background-color: white; */
+      color: white;
+}
+#index_reep{
+      border-radius: 0px 0px 0px 0px;
+      height: 100px;
+      width: 300px;
+      /* border: none; */
+      padding: 20px;
+      font-size: 30px;
+      /* border-style: none; */
+     border: none;
+     outline: none;
+}
+.search_button{
+      background-color: rgb(255, 51, 51) ;
+      height: 142px;
+      width: 300px;
+      border: none;
+      border-radius: 0px 20px 20px 0px;
+      color: white;
+      font-size: 20px;
+      margin-top: 54px;
+
+}
+.big{
+      background-color: rgb(177, 57, 77);
+      padding: 10px;
+      margin: 70px;
+      width: 100%;
+      /* height: 800px; */
+      margin-top: 120px;
+}
+.apno{
+      color: rgb(171, 171, 107);
+      font-size: 40px;
+      margin-left: 400px;
+}
+.trending{
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      background-color: rgb(29, 102, 102);
+      font-size: 10px;
+      display: grid;
+      height: 230px;
+      width: 350px;
+      border-radius: 20px;
+      grid-template-columns: 100px 200px ;
+      box-shadow:0 0 10px rgba(10,10,10, 0.8) ;
+      display: grid;
+      grid-template-columns: 130px 250px;
+      
+}
+.TRENDING {
+      margin-left: 130px;
+}
+.tar_off{
+      display: grid;
+      grid-template-columns: 355px 360px 360px 360px 360px;
+      color: white;
+     
+      
+}
+.main_card_box{
+      box-shadow:0 0 10px rgba(10,10,10, 0.8) ;
+      padding: 30px;
+      margin: 50px;
+      border-radius: 30px;
+     
+     
+   
+}
+.round_img{
+      border-radius: 200px;
+      padding: 30px;
+}
+.BUs_btn{
+      height: 20px;
+      width: 50px;
+
+}
+#col1{
+      background-color: rgb(70 116 93);
+     
+}
+#col3{
+      background-color: rgb(128 192 0);
+}
+#col4{
+      background-color: rgb(164 86 79);
+}
+#col5{
+      background-color: rgb(187 106 60);
+}
+#for_bg4{
+      background-color: rgb(187 106 60);
+}
+#for_bg3{
+      background-color: rgb(164 86 79);
+}
+#for_bg2{
+      background-color: rgb(128 192 0);
+}
+#for_bg1{
+      background-color:rgb(70 116 93);
+}
+#for_bg0{
+      background-color: rgb(29, 102, 102);
+}
+
+.some_smal_text{
+      font-size: 15px;
+      font-weight: 100;
+}
+.butt_card{
+      margin-left: 200px;
+      height: 40px;
+      width: 100px;
+      background-color: none;
+      border: 2px dashed #cac5c5;
+      border-radius: 5px;
+}
+.img_with_some_one{
+      display: grid;
+      grid-template-columns: 1000px 600px;
+}
+.many_people{
+      margin-left: 120px;
+      border-radius: 30px;
+      width: 1000px;
+}
+.icon_with_star{
+      background-color: #063970;
+      border-radius: 20px;
+      margin-right: 120px;
+
+      color: white;
+      display: grid;
+      grid-template-columns: 80px 400px;
+}
+.icon_with_star ,div{
+      margin-left: 70px;
+      margin-top: 30px;
+}
+.on_time_text{
+      font-size: 15px;
+      
+     
+}
+#icon_st{
+      margin-top: 40px;
+}
+.clock{
+      height: 50px;
+}
+.traain{
+      display: grid;
+      grid-template-columns: 40px 400px;
+      
+     
+}
+.train_tic{
+      margin-top: 30px;
+      margin-right: 900px;
+      
+}
+.bold_text{
+      font-weight:10 ;    
+}
+
+.now_para{
+     font-size: 20px; 
+     margin-left: 133px;
+}
+.train_refund{
+      display: grid;
+      grid-template-columns: 100px 800px;
+     
+      
+}
+.main_train{
+      display: grid;
+      grid-template-columns: 700px 500px;
+}
+.small_icon{
+      margin-top: 15px;
+}
+.small_parr{
+    margin-left: 133px;
+    font-size: 20px;
+}
+.button_book{
+      margin-left: 60px;
+      background-color: red;
+      color: white;
+      font-size: 20px;
+      border-radius: 12px;
+      border: none;
+      padding: 10px;
+}
+.bol_para{
+      font-size: 17px;
+      font-weight: bold;
+      line-height: 50px;
+}
+.icon_com{
+      display:grid;
+}
+.main_icon{
+      display: grid;
+      grid-template-columns: 100px 400px;
+}
+
+.main_box{
+      display: grid;
+      grid-template-columns: 740px 740px;
+      height: 800px;
+}
+.train_gb{
+      background-color: pink;
+      border-radius: 20px;
+}
+.green_tick{
+      height: 28px;
+      margin-top: 20px;
+}
+.text_wiith_tick{
+      font-size: 30px;
+      background-color: white;
+      margin-left: 60px;
+}
+#enjoy_with_qr{
+      background-color: rgb(255, 102, 102);
+      display: grid;
+      grid-template-columns: 540px 300px 300px 300px;
+      border-radius: 0px 0px 30px 30px;
+      margin-right: 200px;
+}
+.main_text_wiith_tick{
+      background-color: white;
+      margin-bottom: 180px;
+      border-radius:  30px;
+      margin-left: 10px;
+   
+}
+.star_with_review{
+      display: grid;
+      grid-template-columns: 200px 200px;
+      
+  
+
+}
+.ref{
+      padding: 10px;
+      border-radius: 10px;
+      width: 100px;
+      font-size: 20px;
+      background-color: rgb(234, 79, 79);
+}
+#enjoy_with_enjoy{
+      background-color: rgb(255, 102, 102);
+      
+      border-radius: 20px 20px 0 0;
+     margin-left: 150px;
+     padding-top: 40px;
+      color: white;
+      
+      
+}
+.bag_red{
+      margin-top: 100px;
+      height: 400px;
+}
+.play_with_one{
+      margin-top: 100px;
+      color: white;
+}
+.for_heading{
+      background-color: rgb(255, 102, 102); 
+      border-radius: 30px;
+      margin-right: 100px;
+}
